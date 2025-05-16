@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aditya Sai · he/him
+# 👋 Hey, I'm Aditya Sai · He/Him
 
 - 🔭 Currently working on: fun side projects & leveling up
 - 🌱 Learning: full-stack dev, automation, and some AI
@@ -19,6 +19,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
 
 ---
 
@@ -26,6 +27,7 @@
 
 ![UnknownBro6's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownBro6&show_icons=true&theme=tokyonight&hide_title=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=UnknownBro6&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownBro6&theme=radical&title_color=8E2DE2&text_color=fff)
 
 ---
 
