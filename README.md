@@ -20,6 +20,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
+![Google Apps Script](https://img.shields.io/badge/-Apps_Script-4285F4?logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
 
 ---
 
